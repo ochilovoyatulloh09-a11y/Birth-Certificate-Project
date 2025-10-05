@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OyatulloLaptop\\Desktop\\Birth-Certificate-Project\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
-      "projectName": "ConsoleApp2",
-      "projectPath": "C:\\Users\\OyatulloLaptop\\Desktop\\Birth-Certificate-Project\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\Users\\OyatulloLaptop\\Desktop\\Birth-Certificate-Project\\ConsoleApp2\\Birth-Certificate-Project\\Birth-Certificate-Project.csproj",
+      "projectName": "Birth-Certificate-Project",
+      "projectPath": "C:\\Users\\OyatulloLaptop\\Desktop\\Birth-Certificate-Project\\ConsoleApp2\\Birth-Certificate-Project\\Birth-Certificate-Project.csproj",
       "packagesPath": "C:\\Users\\OyatulloLaptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OyatulloLaptop\\Desktop\\Birth-Certificate-Project\\ConsoleApp2\\ConsoleApp2\\obj\\",
+      "outputPath": "C:\\Users\\OyatulloLaptop\\Desktop\\Birth-Certificate-Project\\ConsoleApp2\\Birth-Certificate-Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OyatulloLaptop\\AppData\\Roaming\\NuGet\\NuGet.Config"
