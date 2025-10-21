@@ -1,4 +1,4 @@
-﻿using BirthCertificate.Entities;
+﻿
 using BirthCertificate.Services;
 
 BabyService babyService = new BabyService();
@@ -34,15 +34,18 @@ while (true)
             Console.WriteLine("4) Delete Baby");
             Console.WriteLine("0) Back");
 
-            string? choice = Console.ReadLine();
+            string? choice2 = Console.ReadLine();
 
-            switch (choice)
+            switch (choice2)
             {
                 case "1":
                     CreateBaby();
                     break;
                 case "2":
                     babyService.ListOfBabies();
+                    break;
+                case "3":
+                    babyService.UpdateBabies();
                     break;
                 
             }
