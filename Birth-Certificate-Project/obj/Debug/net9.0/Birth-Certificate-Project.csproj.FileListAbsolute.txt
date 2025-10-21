@@ -1,0 +1,15 @@
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\obj\Debug\net9.0\Birth-Certificate-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\obj\Debug\net9.0\Birth-Certificate-Project.AssemblyInfoInputs.cache
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\obj\Debug\net9.0\Birth-Certificate-Project.AssemblyInfo.cs
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\obj\Debug\net9.0\Birth-Certificate-Project.csproj.CoreCompileInputs.cache
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\obj\Debug\net9.0\Birth-Certificate-Project.sourcelink.json
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\bin\Debug\net9.0\Birth-Certificate-Project.exe
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\bin\Debug\net9.0\Birth-Certificate-Project.deps.json
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\bin\Debug\net9.0\Birth-Certificate-Project.runtimeconfig.json
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\bin\Debug\net9.0\Birth-Certificate-Project.dll
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\bin\Debug\net9.0\Birth-Certificate-Project.pdb
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\obj\Debug\net9.0\Birth-Certificate-Project.dll
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\obj\Debug\net9.0\refint\Birth-Certificate-Project.dll
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\obj\Debug\net9.0\Birth-Certificate-Project.pdb
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\obj\Debug\net9.0\Birth-Certificate-Project.genruntimeconfig.cache
+C:\Users\OyatulloLaptop\Desktop\Birth-Certificate-Project\ConsoleApp2\Birth-Certificate-Project\obj\Debug\net9.0\ref\Birth-Certificate-Project.dll
